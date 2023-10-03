@@ -1,0 +1,12 @@
+name: vowel_formants
+title: vowel_formants
+username: echodroff
+account: echodroff
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10070650
+bundleId: 7757821
+url: https://echodroff.shinyapps.io/vowel_formants/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
