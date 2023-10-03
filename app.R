@@ -8,9 +8,9 @@
 #
 
 library(shiny)
-require(tidyverse)
-require(ggthemes)
-require(ggforce)
+library(tidyverse)
+library(ggthemes)
+library(ggforce)
 library(DT)
 library(shinydashboard)
 
